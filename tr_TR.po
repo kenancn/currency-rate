@@ -1,0 +1,1872 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Pro Real Estate 7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-10 23:28+0000\n"
+"PO-Revision-Date: 2017-01-10 23:28+0000\n"
+"Last-Translator: root <chris@contempographicdesign.com>\n"
+"Language-Team: Italian\n"
+"Language: it-IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: includes\n"
+"X-Poedit-SearchPath-2: layouts\n"
+"X-Poedit-SearchPath-3: 404.php\n"
+"X-Poedit-SearchPath-4: archive.php\n"
+"X-Poedit-SearchPath-5: author.php\n"
+"X-Poedit-SearchPath-6: comments.php\n"
+"X-Poedit-SearchPath-7: content.php\n"
+"X-Poedit-SearchPath-8: footer.php\n"
+"X-Poedit-SearchPath-9: functions.php\n"
+"X-Poedit-SearchPath-10: header.php\n"
+"X-Poedit-SearchPath-11: index.php\n"
+"X-Poedit-SearchPath-12: page.php\n"
+"X-Poedit-SearchPath-13: rtl.css\n"
+"X-Poedit-SearchPath-14: search-listings.php\n"
+"X-Poedit-SearchPath-15: searchform.php\n"
+"X-Poedit-SearchPath-16: sidebar.php\n"
+"X-Poedit-SearchPath-17: single-listings.php\n"
+"X-Poedit-SearchPath-18: single.php\n"
+"X-Poedit-SearchPath-19: template-agents.php\n"
+"X-Poedit-SearchPath-20: template-big-map.php\n"
+"X-Poedit-SearchPath-21: template-contact.php\n"
+"X-Poedit-SearchPath-22: template-demo-home-map.php\n"
+"X-Poedit-SearchPath-23: template-dsidxpress.php\n"
+"X-Poedit-SearchPath-24: template-edit-listing.php\n"
+"X-Poedit-SearchPath-25: template-edit-profile.php\n"
+"X-Poedit-SearchPath-26: template-favorite-listings.php\n"
+"X-Poedit-SearchPath-27: template-full-width.php\n"
+"X-Poedit-SearchPath-28: template-home.php\n"
+"X-Poedit-SearchPath-29: template-left-sidebar.php\n"
+"X-Poedit-SearchPath-30: template-sitemap.php\n"
+"X-Poedit-SearchPath-31: template-submit-listing.php\n"
+"X-Poedit-SearchPath-32: template-testimonials.php\n"
+"X-Poedit-SearchPath-33: template-view-listings.php\n"
+"X-Poedit-SearchPath-34: admin/ct-child-theme\n"
+"X-Poedit-SearchPath-35: admin/profile-fields.php\n"
+"X-Poedit-SearchPath-36: admin/theme-functions.php\n"
+"X-Poedit-SearchPathExcluded-0: admin/ReduxFramework\n"
+"X-Poedit-SearchPathExcluded-1: admin/aq-resizer\n"
+"X-Poedit-SearchPathExcluded-2: admin/plugins\n"
+"X-Poedit-SearchPathExcluded-3: js\n"
+"X-Poedit-SearchPathExcluded-4: css\n"
+"X-Poedit-SearchPathExcluded-5: fonts\n"
+"X-Poedit-SearchPathExcluded-6: images\n"
+"X-Poedit-SearchPathExcluded-7: admin/images\n"
+"X-Loco-Target-Locale: it_IT"
+
+#: 404.php:15
+msgid "Page Not Found"
+msgstr "Sayfa bulunamadı"
+
+#: 404.php:16
+msgid "Woah there! Looks like you've gotten lost."
+msgstr "Orada! Kaybettiğinize benziyor."
+
+#: 404.php:17
+msgid "Go back to the homepage"
+msgstr "Ana sayfaya dön"
+
+#: archive-brokerage.php:37
+msgid "Brokerages"
+msgstr "simsarlık"
+
+#: archive-brokerage.php:82 author.php:68 single-brokerage.php:77
+#: single-brokerage.php:266 template-agents.php:125 template-brokerages.php:97
+msgid "Tell me more about a property"
+msgstr "Mülk hakkında daha fazla bilgi veriniz."
+
+#: archive-brokerage.php:83 author.php:69 single-brokerage.php:78
+#: single-brokerage.php:267 template-agents.php:126 template-brokerages.php:98
+#: includes/agent-contact-modal.php:22 includes/single-listing-contact.php:102
+#: includes/single-listing-home.php:354
+#: includes/widgets/ct-widget-listingscontact.php:31
+msgid "Request a showing"
+msgstr "Bir gösteri isteyin"
+
+#: archive-brokerage.php:84 author.php:70 single-brokerage.php:79
+#: single-brokerage.php:268 template-agents.php:127 template-brokerages.php:99
+msgid "General Questions"
+msgstr "Genel Sorular"
+
+#: archive-brokerage.php:87 author.php:73 single-brokerage.php:82
+#: single-brokerage.php:271 template-agents.php:130 template-brokerages.php:102
+#: template-edit-profile.php:122 includes/agent-contact-modal.php:25
+#: includes/agent-contact-modal.php:25 includes/agent-contact-modal.php:25
+#: includes/single-listing-contact.php:105 includes/single-listing-home.php:357
+#: includes/single-listing-multi-floorplan.php:27
+#: includes/widgets/ct-widget-listingscontact.php:34
+#: includes/widgets/ct-widget-listingscontact.php:34
+#: includes/widgets/ct-widget-listingscontact.php:34
+msgid "Name"
+msgstr "Ad"
+
+#: archive-brokerage.php:89 archive-brokerage.php:151 author.php:75
+#: author.php:140 single-brokerage.php:84 single-brokerage.php:134
+#: single-brokerage.php:273 single-brokerage.php:337 template-agents.php:132
+#: template-agents.php:198 template-brokerages.php:104
+#: template-brokerages.php:166 includes/agent-contact-modal.php:27
+#: includes/agent-contact-modal.php:27 includes/agent-contact-modal.php:27
+#: includes/single-listing-contact.php:68
+#: includes/single-listing-contact.php:107
+#: includes/single-listing-contact.php:170 includes/single-listing-home.php:336
+#: includes/single-listing-home.php:359 includes/single-listing-home.php:420
+#: includes/widgets/ct-widget-agentinfo.php:77
+#: includes/widgets/ct-widget-listingscontact.php:36
+#: includes/widgets/ct-widget-listingscontact.php:36
+#: includes/widgets/ct-widget-listingscontact.php:36
+msgid "Email"
+msgstr "E-posta"
+
+#: archive-brokerage.php:91 author.php:77 single-brokerage.php:86
+#: single-brokerage.php:275 template-agents.php:134 template-brokerages.php:106
+#: template-contact.php:70 includes/agent-contact-modal.php:29
+#: includes/agent-contact-modal.php:29 includes/agent-contact-modal.php:29
+#: includes/single-listing-contact.php:109 includes/single-listing-home.php:361
+#: includes/widgets/ct-widget-listingscontact.php:38
+#: includes/widgets/ct-widget-listingscontact.php:38
+#: includes/widgets/ct-widget-listingscontact.php:38
+msgid "Phone"
+msgstr "Telefon"
+
+#: archive-brokerage.php:99 author.php:85 single-brokerage.php:94
+#: single-brokerage.php:283 template-agents.php:142 template-brokerages.php:114
+#: template-contact.php:81 template-contact.php:81
+#: template-listing-email-alerts.php:106 includes/agent-contact-modal.php:38
+#: includes/single-listing-contact.php:117 includes/single-listing-home.php:369
+#: includes/widgets/ct-widget-listingscontact.php:47
+msgid "Submit"
+msgstr "Gönder "
+
+#: archive-brokerage.php:168 template-brokerages.php:183
+#: includes/single-listing-multi-floorplan.php:122
+msgid "View"
+msgstr "Görünüm"
+
+#: archive-brokerage.php:178 template-brokerages.php:193
+msgid "No Brokerages Found."
+msgstr "Aracılık Bulunamadı."
+
+#: archive.php:64
+msgid "No posts were found which match your search criteria"
+msgstr "Arama kriterlerinize uyan ilan bulunamadı"
+
+#: archive.php:64 layouts/grid.php:23 layouts/list.php:20
+msgid "Try broadening your search to find more results."
+msgstr "Daha fazla sonuç bulmak için aramanızı genişletmeyi deneyin."
+
+#: author.php:30 admin/profile-fields.php:48
+msgid "Agent"
+msgstr "Temsilci"
+
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Bu yazı parola korumalı. Yazıyı görmek için parolanızı girin."
+
+#: comments.php:31
+msgid "No Responses"
+msgstr "Yanıt yok"
+
+#: comments.php:31
+msgid "1 Comment"
+msgstr "1 yorum"
+
+#: comments.php:31
+msgid "% Comments"
+msgstr "% Yorum"
+
+#: comments.php:44
+msgid "&larr; Older Comments"
+msgstr "Eski Yorumlar"
+
+#: comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr "Yeni Yorumlar"
+
+#: comments.php:53
+msgid "Comments are closed, but"
+msgstr "Yorumlar kapalı ancak"
+
+#: comments.php:53
+msgid "Trackback URL for this post"
+msgstr "Bu yazı için İz Geri Dönüş URL'si"
+
+#: comments.php:53
+msgid "trackbacks"
+msgstr "Geri izleme"
+
+#: comments.php:53
+msgid "and pingbacks are open."
+msgstr "Ve pingback'ler açıktır."
+
+#: comments.php:59
+msgid "Reviews are closed."
+msgstr "İncelemeler kapalıdır."
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr "Yoruma kapalı."
+
+#: footer.php:61
+msgid "Back to top"
+msgstr "Geri Dön "
+
+#: footer.php:63
+msgid "All Rights Reserved."
+msgstr "Tüm Hakları Saklıdır."
+
+#: footer.php:63
+msgid "Back to top "
+msgstr "Geri Dön  "
+
+#: header.php:162
+msgid "Hi, "
+msgstr "Merhaba, "
+
+#: header.php:179
+msgid "Favorite Listings"
+msgstr "Favori Listelemeler"
+
+#: header.php:182 template-submit-listing.php:443
+msgid "Submit Listing"
+msgstr "İlanı Gönder "
+
+#: header.php:185
+msgid "My Listings"
+msgstr "Listelerim"
+
+#: header.php:188
+msgid "Account Settings"
+msgstr "Hesap ayarları"
+
+#: header.php:190
+msgid "Logout"
+msgstr "Çıkış Yap  "
+
+#: header.php:194
+msgid "Login / Register"
+msgstr "Giriş Yapın / Kayıt Olun"
+
+#: search-listings.php:352 search-listings.php:425
+msgid "listings found"
+msgstr "Girişler bulundu"
+
+#: search-listings.php:352 search-listings.php:425
+msgid "listing found"
+msgstr "Liste bulundu"
+
+#: search-listings.php:355 search-listings.php:428
+msgid "Find A Home"
+msgstr "Bir Ev Bul"
+
+#: search-listings.php:367 search-listings.php:438 search-listings.php:460
+msgid "Searching:"
+msgstr "ARANIYOR..."
+
+#: search-listings.php:371 search-listings.php:442 search-listings.php:464
+msgid "All listings"
+msgstr "Tüm listeler"
+
+#: search-listings.php:373
+msgid "Open Search"
+msgstr "Aramayı Aç"
+
+#: search-listings.php:444 search-listings.php:466
+msgid "Close Map"
+msgstr "Haritayı kapat"
+
+#: search-listings.php:490
+msgid "Save This Search?"
+msgstr "Bu Aramayı Kaydedin?"
+
+#: search-listings.php:491
+msgid "View Saved"
+msgstr "Kayıtlı Görünüm"
+
+#: single-brokerage.php:38 admin/profile-fields.php:127
+msgid "Brokerage"
+msgstr "komisyonculuk"
+
+#: single-brokerage.php:147 single-listings.php:36
+msgid "Listings"
+msgstr "Listeler "
+
+#. Name of the template
+#: single-brokerage.php:148
+msgid "Agents"
+msgstr "Ofisler"
+
+#: single-brokerage.php:149
+msgid "Map"
+msgstr "Harita"
+
+#: single-brokerage.php:151 includes/single-listing-sub-navigation.php:117
+msgid "Reviews"
+msgstr "İncelemeler"
+
+#: single-brokerage.php:210 template-agents.php:50
+msgid "Type an agents name or title here to filter the list."
+msgstr "Listeye filtre uygulamak için buraya bir ajanın adını veya başlığını yazın."
+
+#: single-brokerage.php:356 template-agents.php:234
+msgid "View Listings"
+msgstr "Listelemeleri Görüntüle"
+
+#: single-brokerage.php:367
+msgid "This brokerage currently has no active agents."
+msgstr "Bu aracı kurumun şu anda aktif bir aracı yok."
+
+#: single-brokerage.php:367 layouts/grid.php:19 layouts/grid.php:21
+#: layouts/list.php:16 layouts/list.php:18
+msgid "Check back soon."
+msgstr "Daha sonra tekrar kontrol et."
+
+#: single-brokerage.php:389 includes/single-listing-reviews.php:19
+msgid "No Reviews"
+msgstr "Değerlendirme Yok"
+
+#: single-brokerage.php:389 includes/single-listing-reviews.php:19
+msgid "1 Review"
+msgstr "gözden geçirmek"
+
+#: single-brokerage.php:389 includes/single-listing-reviews.php:19
+msgid "% Reviews"
+msgstr "İncelemeler"
+
+#: single-listings.php:50 single-listings.php:51 single-listings.php:52
+#: includes/single-listing-home.php:452 includes/single-listing-home.php:453
+#: includes/single-listing-home.php:454
+#: includes/widgets/ct-widget-listingssocial.php:29
+#: includes/widgets/ct-widget-listingssocial.php:30
+#: includes/widgets/ct-widget-listingssocial.php:31
+msgid "Check out this great listing on"
+msgstr "Bu büyük listeyi şu adreste inceleyin:"
+
+#: single-listings.php:56 includes/agent-contact-modal.php:16
+msgid "Close"
+msgstr "Kapat"
+
+#: single-listings.php:113 template-edit-listing.php:232
+#: template-edit-profile.php:52 template-listing-email-alerts.php:50
+#: template-submit-listing.php:143 template-user-stats.php:51
+#: template-view-invoices.php:51 template-view-listings.php:54
+msgid "You must be logged in to view this page."
+msgstr "Bu sayfayı görebilmek için giriş yapmalısınız."
+
+#: single.php:79 includes/post-author-info.php:15 layouts/blog-large.php:54
+msgid "By"
+msgstr "Yazar"
+
+#: single.php:79 layouts/blog-large.php:54
+msgid "in"
+msgstr "içinde"
+
+#: single.php:79 layouts/blog-large.php:54
+msgid "with"
+msgstr "ile"
+
+#: single.php:127 template-agents.php:253 template-dsidxpress.php:41
+#: template-edit-listing.php:581 template-submit-listing.php:453
+msgid "Pages:"
+msgstr "Sayfalar: "
+
+#. Name of the template
+msgid "Advanced Search"
+msgstr "Gelişmiş Arama"
+
+#: template-advanced-search.php:62 template-edit-listing.php:255
+#: template-listing-email-alerts.php:61 template-submit-listing.php:174
+#: template-view-invoices.php:59 includes/advanced-search.php:37
+#: includes/header-advanced-search.php:56
+#: includes/widgets/ct-widget-listingssearch.php:46
+msgid "Type"
+msgstr "tip "
+
+#: template-advanced-search.php:77 template-edit-listing.php:506
+#: template-submit-listing.php:346 includes/advanced-search.php:60
+#: includes/widgets/ct-widget-listingssearch.php:69
+msgid "Area"
+msgstr "Alan"
+
+#: template-advanced-search.php:79 template-edit-listing.php:508
+#: template-submit-listing.php:348 includes/advanced-search.php:62
+#: includes/widgets/ct-widget-listingssearch.php:71
+msgid "Suburb"
+msgstr "Kenar mahalle"
+
+#: template-advanced-search.php:92 includes/advanced-search.php:79
+#: includes/header-advanced-search.php:98
+#: includes/widgets/ct-widget-listingssearch.php:88
+msgid "Postcode"
+msgstr "Posta kodu: "
+
+#: template-advanced-search.php:94 includes/advanced-search.php:81
+#: includes/header-advanced-search.php:100
+#: includes/widgets/ct-widget-listingssearch.php:90
+msgid "Zipcode"
+msgstr "Posta kodu"
+
+#: template-advanced-search.php:100 template-edit-listing.php:521
+#: template-submit-listing.php:361 includes/advanced-search.php:91
+#: includes/header-advanced-search.php:110
+#: includes/widgets/ct-widget-listingssearch.php:100
+msgid "Country"
+msgstr "Ülke"
+
+#: template-advanced-search.php:125 includes/advanced-search.php:150
+#: includes/header-advanced-search.php:169
+#: includes/widgets/ct-widget-listingssearch.php:159
+msgid "Neighborhood"
+msgstr "Mahalle"
+
+#: template-advanced-search.php:127 includes/advanced-search.php:152
+#: includes/header-advanced-search.php:171
+#: includes/widgets/ct-widget-listingssearch.php:161
+msgid "District"
+msgstr "Bölge/İlçe"
+
+#: template-advanced-search.php:129 includes/advanced-search.php:100
+#: includes/advanced-search.php:154 includes/header-advanced-search.php:119
+#: includes/header-advanced-search.php:173
+#: includes/widgets/ct-widget-listingssearch.php:109
+#: includes/widgets/ct-widget-listingssearch.php:163
+msgid "Community"
+msgstr "Topluluk"
+
+#: template-advanced-search.php:145 template-advanced-search.php:146
+#: includes/advanced-search.php:183 includes/header-advanced-search.php:202
+#: includes/widgets/ct-widget-listingssearch.php:192
+msgid "Size From"
+msgstr "Boyut"
+
+#: template-advanced-search.php:150 template-advanced-search.php:151
+#: includes/advanced-search.php:192 includes/header-advanced-search.php:211
+#: includes/widgets/ct-widget-listingssearch.php:201
+msgid "Size To"
+msgstr "Boyut"
+
+#: template-advanced-search.php:155 template-advanced-search.php:156
+#: includes/advanced-search.php:200 includes/advanced-search.php:201
+#: includes/header-advanced-search.php:219
+#: includes/header-advanced-search.php:220
+#: includes/widgets/ct-widget-listingssearch.php:209
+#: includes/widgets/ct-widget-listingssearch.php:210
+msgid "Lot Size From"
+msgstr "Lot Boyutu"
+
+#: template-advanced-search.php:160 template-advanced-search.php:161
+#: includes/advanced-search.php:209 includes/advanced-search.php:210
+#: includes/header-advanced-search.php:228
+#: includes/header-advanced-search.php:229
+#: includes/widgets/ct-widget-listingssearch.php:218
+#: includes/widgets/ct-widget-listingssearch.php:219
+msgid "Lot Size To"
+msgstr "Lot Boyutu To"
+
+#: template-advanced-search.php:165 template-advanced-search.php:166
+#: template-edit-listing.php:546 template-submit-listing.php:386
+#: includes/advanced-search.php:218 includes/advanced-search.php:219
+#: includes/header-advanced-search.php:237
+#: includes/header-advanced-search.php:238
+#: includes/single-listing-propinfo.php:17
+#: includes/widgets/ct-widget-listingssearch.php:227
+#: includes/widgets/ct-widget-listingssearch.php:228
+msgid "Property ID"
+msgstr "Emlak kimliği"
+
+#: template-advanced-search.php:176 template-advanced-search.php:177
+#: includes/advanced-search.php:227 includes/advanced-search.php:228
+#: includes/header-advanced-search.php:246
+#: includes/header-advanced-search.php:247
+#: includes/widgets/ct-widget-listingssearch.php:236
+#: includes/widgets/ct-widget-listingssearch.php:237
+msgid "Number of Guests"
+msgstr "Ziyaretçi sayısı"
+
+#: template-advanced-search.php:182 includes/advanced-search.php:136
+#: includes/widgets/ct-widget-listingssearch.php:145
+msgid "Additional Features"
+msgstr "Ek özellikler:"
+
+#: template-advanced-search.php:188 includes/advanced-search.php:256
+#: includes/header-advanced-search.php:36
+#: includes/home-hero-advanced-search.php:36
+#: includes/widgets/ct-widget-listingssearch.php:258
+msgid "Search"
+msgstr "Arama"
+
+#: template-agents.php:248
+msgid "No Agents Found."
+msgstr "Hiçbir temsilci bulunamadı"
+
+#. Name of the template
+msgid "Big Map"
+msgstr "Büyük Harita"
+
+#. Name of the template
+msgid "Compare"
+msgstr "Karşılaştır:"
+
+#. Name of the template
+msgid "Contact No Form"
+msgstr "İletişim No Form"
+
+#. Name of the template
+#: includes/single-listing-sub-navigation.php:136
+msgid "Contact"
+msgstr "İletişim "
+
+#: template-contact.php:62
+msgid "Name*"
+msgstr "İsim*"
+
+#: template-contact.php:66
+msgid "Email*"
+msgstr "E-posta *"
+
+#: template-contact.php:73
+msgid "Subject*"
+msgstr "Konu"
+
+#: template-contact.php:75
+msgid "Message"
+msgstr "Mesaj "
+
+#. Name of the template
+msgid "Demo Home Map"
+msgstr "Demo Anasayfa Harita"
+
+#. Name of the template
+msgid "dsIDXpress"
+msgstr "dsIDXpress"
+
+#. Name of the template
+msgid "Edit Listing"
+msgstr "İlanı Düzenle"
+
+#: template-edit-listing.php:245 template-submit-listing.php:164
+#: template-user-stats.php:80 template-user-stats.php:149
+#: admin/profile-fields.php:147
+msgid "Address"
+msgstr "Adres"
+
+#: template-edit-listing.php:250 template-submit-listing.php:169
+msgid "Alternate Title"
+msgstr "Alternatif Başlık"
+
+#: template-edit-listing.php:251 template-submit-listing.php:170
+msgid "(e.g. Downtown Penthouse)"
+msgstr "(Örn. Downtown Penthouse)"
+
+#: template-edit-listing.php:261 template-edit-listing.php:276
+msgid "Any"
+msgstr "herhangi"
+
+#: template-edit-listing.php:285 template-submit-listing.php:184
+#: includes/single-listing-multi-floorplan.php:43
+msgid "Price"
+msgstr "Fiyat"
+
+#: template-edit-listing.php:292 template-submit-listing.php:191
+msgid "Price Prefix"
+msgstr "Fiyat Öneki"
+
+#: template-edit-listing.php:292 template-submit-listing.php:192
+msgid " (e.g. From, Call for price)"
+msgstr " (Örneğin Gönderen, Fiyat çağırın)"
+
+#: template-edit-listing.php:297 template-submit-listing.php:196
+msgid "Price Postfix Text"
+msgstr "Fiyat Postfix Metni"
+
+#: template-edit-listing.php:297 template-submit-listing.php:197
+msgid " (e.g. /month, /week)"
+msgstr " (Örneğin / ay, / hafta)"
+
+#: template-edit-listing.php:303 template-submit-listing.php:202
+msgid "Listing Description"
+msgstr "Açıklama Açıklama"
+
+#: template-edit-listing.php:324 template-submit-listing.php:231
+msgid "Optional Rental Information"
+msgstr "İsteğe Bağlı Kiralama Bilgileri"
+
+#: template-edit-listing.php:330 template-submit-listing.php:237
+msgid "Max-number of Guests"
+msgstr "Maksimum Misafir Sayısı"
+
+#: template-edit-listing.php:335 template-submit-listing.php:242
+msgid "Minimum Stay"
+msgstr "Asgari konaklama"
+
+#: template-edit-listing.php:342 template-submit-listing.php:249
+msgid "Check In Time"
+msgstr "Zamanında kontrol et"
+
+#: template-edit-listing.php:347 template-submit-listing.php:254
+msgid "Check Out Time"
+msgstr "Kontrol zamanı"
+
+#: template-edit-listing.php:354 template-submit-listing.php:261
+msgid "Extra Person Charge"
+msgstr "Ekstra Kişi Ücreti"
+
+#: template-edit-listing.php:359 template-submit-listing.php:266
+msgid "Cleaning Fee"
+msgstr "Temizlik ücreti"
+
+#: template-edit-listing.php:366 template-submit-listing.php:273
+msgid "Cancellation Fee"
+msgstr "İptal ücreti"
+
+#: template-edit-listing.php:371 template-submit-listing.php:278
+msgid "Security Deposit"
+msgstr "Güvence bedeli"
+
+#: template-edit-listing.php:386 template-submit-listing.php:290
+msgid "Listing Featured Image"
+msgstr "Öne Çıkan Görüntüyü Listeleme"
+
+#: template-edit-listing.php:395 template-submit-listing.php:302
+msgid "Listing Images"
+msgstr "Görüntüleri Liste"
+
+#: template-edit-listing.php:472 template-submit-listing.php:312
+msgid "Drag & Drop Images Here"
+msgstr "Buraya Sürükle-Bırak Görüntüleri"
+
+#: template-edit-listing.php:475 template-submit-listing.php:315
+msgid "or"
+msgstr "veya"
+
+#: template-edit-listing.php:478 template-submit-listing.php:318
+msgid "Select Images"
+msgstr "Resimleri Seç"
+
+#: template-edit-listing.php:482 template-submit-listing.php:322
+msgid ""
+"*At least one image is required for valid submission, minimum width of 817px."
+msgstr "* En az bir resim geçerli gönderim için gereklidir, en az 817 piksellik genişlik."
+
+#: template-edit-listing.php:483 template-submit-listing.php:323
+msgid ""
+"*You can mark an image as featured by clicking the star icon, Otherwise "
+"first image will be considered featured image."
+msgstr "* Aksi halde ilk görüntü özellikli görüntü olarak kabul edilecektir, yıldız simgesini tıklayarak özellikli olarak * Bir görüntüyü işaretleyebilirsiniz."
+
+#: template-edit-listing.php:551 template-submit-listing.php:391
+msgid "Video URL"
+msgstr "Video URL'si"
+
+#: template-edit-listing.php:557 template-submit-listing.php:397
+msgid "Additional Features (comma separated)"
+msgstr "Ek Özellikler (virgülle ayrılmış)"
+
+#: template-edit-listing.php:563 template-submit-listing.php:411
+msgid "Latitude & Longitude (optional)"
+msgstr "Enlem ve Boylam (isteğe bağlı)"
+
+#: template-edit-listing.php:573
+msgid "Update Listing"
+msgstr "İlanı Güncelle"
+
+#. Name of the template
+msgid "Edit Profile"
+msgstr "Profili Düzenle "
+
+#: template-edit-profile.php:71
+msgid "The passwords you entered do not match. Your password was not updated."
+msgstr "Girdiğiniz parolalar uyuşmuyor. Parolanız güncellenemedi."
+
+#: template-edit-profile.php:79
+msgid "The Email you entered is not valid. Please try again."
+msgstr "Girdiğiniz e-posta geçerli değil. Lütfen tekrar deneyin."
+
+#: template-edit-profile.php:81
+msgid "This email is already used by another user. Try a different one."
+msgstr "Bu e-posta zaten başka bir kullanıcı tarafından kullanılıyor. Farklı bir adres deneyin."
+
+#: template-edit-profile.php:126
+msgid "Username"
+msgstr "Kullanıcı adı "
+
+#: template-edit-profile.php:127
+msgid "Usernames cannot be changed."
+msgstr "Kullanıcı adı değiştirilemez."
+
+#: template-edit-profile.php:130
+msgid "First Name"
+msgstr "Adı"
+
+#: template-edit-profile.php:134
+msgid "Last Name"
+msgstr "Soyadı"
+
+#: template-edit-profile.php:138
+msgid "Nickname"
+msgstr "İsminiz"
+
+#: template-edit-profile.php:138
+msgid "(required)"
+msgstr "(gereklidir) "
+
+#: template-edit-profile.php:142
+msgid "Display to Public as"
+msgstr "Herkese açık olarak göster"
+
+#: template-edit-profile.php:180
+msgid "Contact Info"
+msgstr "İletişim Bilgileri"
+
+#: template-edit-profile.php:184
+msgid "E-mail *"
+msgstr "E-posta*"
+
+#: template-edit-profile.php:188
+msgid "Website"
+msgstr "Website"
+
+#: template-edit-profile.php:211
+msgid "About Yourself"
+msgstr "Kendinizi Hakkında"
+
+#: template-edit-profile.php:215
+msgid "Biographical Information"
+msgstr "Biyografik bilgi"
+
+#: template-edit-profile.php:215
+msgid ""
+"Share a little biographical information to fill out your profile. This may "
+"be shown publicly."
+msgstr "Profilinizi doldurmak için küçük bir biyografik bilgi paylaşın. Bu, herkese gösterilebilir."
+
+#: template-edit-profile.php:219
+msgid "New Password"
+msgstr "Yeni Şifre"
+
+#: template-edit-profile.php:219
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr "Eğer değiştirmek istiyorsanız Parola yeni bir yazın. Aksi takdirde bu boş bırakın."
+
+#: template-edit-profile.php:223
+msgid "Type your new password again."
+msgstr "Yeni parolanızı tekrar yazın."
+
+#: template-edit-profile.php:225
+msgid "Strength indicator"
+msgstr "Güç göstergesi"
+
+#: template-edit-profile.php:237
+msgid "Update Profile"
+msgstr "Profil Güncellemesi"
+
+#: template-favorite-listings.php:115
+msgid "Previous Entries"
+msgstr "Önceki Yazılar"
+
+#: template-favorite-listings.php:116
+msgid "Next Entries"
+msgstr "Sonraki Yazılar"
+
+#. Name of the template
+msgid "Full Width 2"
+msgstr "Tam Genişlik  "
+
+#. Name of the template
+msgid "Full Width"
+msgstr "Full Width"
+
+msgid "Home"
+msgstr "Ana Sayfa"
+
+#. Name of the template
+msgid "IDX"
+msgstr "IDX"
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr "Sol Kenar Çubuğu"
+
+#. Name of the template
+msgid "Listing Email Alerts"
+msgstr "E-posta Uyarılarını Listeleme"
+
+#: template-listing-email-alerts.php:57
+msgid "Create a new email alert"
+msgstr "Yeni bir e-posta uyarısı oluştur"
+
+#: template-listing-email-alerts.php:58
+msgid ""
+"What are you looking for? Fill out the fields below it can be as precise or "
+"as broad as you like."
+msgstr "Ne arıyorsun? Aşağıdaki alanları doldurun, istediğiniz kadar hassas veya geniş olabilir."
+
+#: template-listing-email-alerts.php:82
+msgid "650000"
+msgstr "(1990)."
+
+#: template-listing-email-alerts.php:87
+msgid "1200000"
+msgstr "(1990)."
+
+#: template-listing-email-alerts.php:107
+msgid "Submit Alert"
+msgstr "Uyarı Gönder"
+
+#: template-listing-email-alerts.php:116
+msgid "Manage your alerts"
+msgstr "Uyarılarınızı yönetin"
+
+#: template-listing-email-alerts.php:117
+msgid "Here you can turn saved alerts on/off or remove them completely."
+msgstr "Burada kaydedilen uyarıları açabilir veya kapatabilir veya tamamen kaldırabilirsiniz."
+
+#: template-listing-email-alerts.php:123
+msgid "Query"
+msgstr "Sorgu"
+
+#: template-listing-email-alerts.php:126
+msgid "Date Created"
+msgstr "Oluşturma Tarihi {0}"
+
+#: template-listing-email-alerts.php:129
+msgid "Email Setting"
+msgstr "E-posta Ayarları"
+
+#: template-listing-email-alerts.php:132
+msgid "Delete"
+msgstr "Sil  "
+
+#: template-listing-email-alerts.php:147 template-listing-email-alerts.php:164
+#: template-listing-email-alerts.php:181
+#: includes/widgets/ct-widget-tabs.php:213
+msgid "on"
+msgstr "üzerinde"
+
+#: template-listing-email-alerts.php:147 template-listing-email-alerts.php:164
+#: template-listing-email-alerts.php:181
+msgid "On"
+msgstr "On"
+
+#: template-listing-email-alerts.php:148 template-listing-email-alerts.php:165
+#: template-listing-email-alerts.php:182
+msgid "off"
+msgstr "kapalı"
+
+#: template-listing-email-alerts.php:148 template-listing-email-alerts.php:165
+#: template-listing-email-alerts.php:182
+msgid "Off"
+msgstr "Off"
+
+#. Name of the template
+msgid "Sitemap"
+msgstr "Site haritası"
+
+#: template-sitemap.php:51
+msgid "Last Twenty Posts"
+msgstr "Son Yirmi Mesaj"
+
+#: template-sitemap.php:67
+msgid "Pages"
+msgstr "Sayfalar"
+
+#: template-sitemap.php:74
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: template-sitemap.php:81
+msgid "Posts per category"
+msgstr "Kategoriye göre yayınlar"
+
+#: template-submit-listing.php:149
+msgid "Listings Limit Reached"
+msgstr "Listeler Sınır Ulaşıldı"
+
+#: template-submit-listing.php:150
+msgid "You've reached the listings limit for your membership package."
+msgstr "Üyelik paketiniz için listeleme sınırına ulaştınız."
+
+#: template-submit-listing.php:150
+msgid "Upgrade Today!"
+msgstr "Bugün yükselt!"
+
+#: template-submit-listing.php:238
+msgid " (e.g. 2)"
+msgstr " Örneğin "
+
+#: template-submit-listing.php:243
+msgid " (e.g. 1 night)"
+msgstr " (Örn. 1 gece)"
+
+#: template-submit-listing.php:250
+msgid " (e.g. 3:00 PM)"
+msgstr " (Örneğin 15:00)"
+
+#: template-submit-listing.php:255
+msgid " (e.g. 11:00 AM)"
+msgstr " (Örn. 11:00 AM)"
+
+#: template-submit-listing.php:262
+msgid " (e.g. 50)"
+msgstr " Örneğin "
+
+#: template-submit-listing.php:267
+msgid " (e.g. 150)"
+msgstr " Örneğin "
+
+#: template-submit-listing.php:274
+msgid " (e.g. 275)"
+msgstr " Örneğin "
+
+#: template-submit-listing.php:279
+msgid " (e.g. 895)"
+msgstr " Örneğin "
+
+#: template-submit-listing.php:295
+msgid "Gallery Images (select as many as you like)"
+msgstr "Galeri Görüntüleri (istediğiniz kadar seçin)"
+
+#. Name of the template
+msgid "Testimonials"
+msgstr "Görüşler"
+
+#. Name of the template
+msgid "User/Agent Stats"
+msgstr "Kullanıcı / Aracı İstatistikleri"
+
+#: template-user-stats.php:56
+msgid "Traffic Overview"
+msgstr "Trafik Genel Görünümü"
+
+#: template-user-stats.php:64
+msgid "Top Listings"
+msgstr "En Çok Arananlar"
+
+#: template-user-stats.php:67 template-user-stats.php:233
+msgid "Today"
+msgstr "Bugün"
+
+#: template-user-stats.php:68 template-user-stats.php:234
+msgid "Yesterday"
+msgstr "dün"
+
+#: template-user-stats.php:81 template-user-stats.php:150
+msgid "Views"
+msgstr "görüntülenme"
+
+#: template-user-stats.php:136 template-user-stats.php:205
+msgid "Total Views"
+msgstr "Toplam görüntülenme"
+
+#: template-user-stats.php:137
+msgid "315"
+msgstr "(1990)."
+
+#: template-user-stats.php:206
+msgid "314"
+msgstr "(1990)."
+
+#: template-user-stats.php:222
+msgid "Traffic Sources"
+msgstr "Trafik Kaynakları"
+
+#: template-user-stats.php:230
+msgid "Top Referrers"
+msgstr "En Çok Yön Verenler"
+
+#: template-user-stats.php:246 template-user-stats.php:279
+msgid "Referral Page Title"
+msgstr "Yönlendirme Sayfası Başlığı"
+
+#: template-user-stats.php:247 template-user-stats.php:280
+msgid "Visits"
+msgstr "Ziyaret"
+
+#: template-user-stats.php:266 template-user-stats.php:299
+msgid "Total Visits"
+msgstr "Toplam Ziyaret Sayısı"
+
+#: template-user-stats.php:267 template-user-stats.php:300
+msgid "79"
+msgstr "79"
+
+#. Name of the template
+msgid "Invoices"
+msgstr "Faturalar"
+
+#: template-view-invoices.php:57
+msgid "Invoice"
+msgstr "Fatura"
+
+#: template-view-invoices.php:58
+msgid "Description"
+msgstr "Açıklama"
+
+#: template-view-invoices.php:60 includes/single-listing-open-house.php:29
+msgid "Date"
+msgstr "Tarih"
+
+#: template-view-invoices.php:62
+msgid "Total"
+msgstr "Genel Toplam"
+
+#: template-view-listings.php:102
+msgid "Featured"
+msgstr "Öne Çıkan"
+
+#: template-view-listings.php:114
+msgid "Paid"
+msgstr "ödenmiş"
+
+#: template-view-listings.php:154
+msgid "You don't have any listings yet..."
+msgstr "Henüz hiçbir listeniz yok ..."
+
+#: template-view-listings.php:155
+msgid "Create One"
+msgstr "Bir tane yarat"
+
+#: admin/profile-fields.php:23
+msgid "Select a Brokerage"
+msgstr "Bir Aracı Kur Seç"
+
+#: admin/profile-fields.php:43
+msgid "Extra profile information"
+msgstr "Ekstra profil bilgileri"
+
+#: admin/profile-fields.php:55
+msgid "Agent Order"
+msgstr "Ajan Siparişi"
+
+#: admin/profile-fields.php:58
+msgid ""
+"If user is an agent select the order you would like them displayed on the "
+"agents page, e.g. 1, 2, 3, etc&hellip; NOTE: You must also set Real Estate 7 "
+"Options > Agents > Manually Order Agents? > to Yes, otherwise the ordering "
+"won't be applied."
+msgstr "Kullanıcı bir aracı ise, ajanlar sayfasında görüntülenmesini istediğiniz siparişi seçin, örn. 1, 2, 3, vb. & Hellip; NOT: Emlak 7 Seçenekleri> Ajanlar> El İle Ajanları Sipariş Et? > Evet'e, aksi takdirde sipariş uygulanmaz."
+
+#: admin/profile-fields.php:62
+msgid "Profile Image"
+msgstr "Profil fotoğrafı"
+
+#: admin/profile-fields.php:72
+msgid ""
+"Please upload a profile picture here, if none is chosen a default image will "
+"be used."
+msgstr "Lütfen burada bir profil resmi yükleyin, hiçbiri seçilmemişse varsayılan bir resim kullanılacaktır."
+
+#: admin/profile-fields.php:76
+msgid "Mobile #"
+msgstr "Mobil:"
+
+#: admin/profile-fields.php:82
+msgid "Fax #"
+msgstr "Faks:"
+
+#: admin/profile-fields.php:89
+msgid "Title"
+msgstr "Başlık   "
+
+#: admin/profile-fields.php:95
+msgid "Tagline"
+msgstr "Slogan"
+
+#: admin/profile-fields.php:101
+msgid "Agent License #"
+msgstr "Ajan Lisansı #"
+
+#: admin/profile-fields.php:104
+msgid "Add the agents license number here."
+msgstr "Acentelerin lisans numarasını buraya ekleyin."
+
+#: admin/profile-fields.php:109
+msgid "Office Information"
+msgstr "Ofis Bilgileri"
+
+#: admin/profile-fields.php:113
+msgid "Personal Logo"
+msgstr "Kişisel logosu"
+
+#: admin/profile-fields.php:123
+msgid ""
+"Upload your personal logo here, or if you choose to associate a Brokerage "
+"below that logo will be used instead."
+msgstr "Kişisel logonuzu buraya yükleyin veya aşağıdaki Brokerage'ı ilişkilendirmeyi seçerseniz, o logonun yerine kullanılacaktır."
+
+#: admin/profile-fields.php:130
+msgid ""
+"Assign a brokerage here, these are pulled from the Brokerage custom post "
+"type."
+msgstr "Burada bir komisyoncu atayın, bunlar Komisyonculuk özel yazı tipinden alınır."
+
+#: admin/profile-fields.php:134
+msgid "Brokerage License #"
+msgstr "Aracılık Ruhsatı #"
+
+#: admin/profile-fields.php:137
+msgid "Add the brokerage license number here."
+msgstr "Aracılık lisans numarasını buraya ekleyin."
+
+#: admin/profile-fields.php:141
+msgid "Office #"
+msgstr "ofis"
+
+#: admin/profile-fields.php:159
+msgid "State or Province"
+msgstr "Eyalet veya İl"
+
+#: admin/profile-fields.php:165
+msgid "Postal Code"
+msgstr "posta kodu"
+
+#: includes/advanced-search.php:182 includes/header-advanced-search.php:201
+#: includes/widgets/ct-widget-listingssearch.php:191
+msgid "From"
+msgstr "Nereden"
+
+#: includes/advanced-search.php:191 includes/header-advanced-search.php:210
+#: includes/widgets/ct-widget-listingssearch.php:200
+msgid "To"
+msgstr "Nereye"
+
+#: includes/advanced-search.php:236 includes/advanced-search.php:237
+#: includes/header-advanced-search.php:255
+#: includes/header-advanced-search.php:256
+msgid "Keyword"
+msgstr "Anahtar kelime"
+
+#: includes/advanced-search.php:260
+#: includes/widgets/ct-widget-listingssearch.php:262
+msgid "More Search Options"
+msgstr "Daha Fazla Arama Seçenekleri"
+
+#: includes/agent-contact-modal.php:21 includes/single-listing-contact.php:101
+#: includes/single-listing-home.php:353
+#: includes/widgets/ct-widget-listingscontact.php:30
+msgid "Tell me more about this property"
+msgstr "Bu mülk hakkında daha fazla bilgi verin"
+
+#: includes/featured-listings.php:30 includes/featured-listings.php:32
+msgid "View All"
+msgstr "Hepsini gör"
+
+#: includes/featured-listings.php:60 includes/featured-listings.php:69
+#: includes/single-listing-home.php:29
+msgid "featured"
+msgstr "önde"
+
+#: includes/header-advanced-search.php:21
+#: includes/home-hero-advanced-search.php:21
+msgid "Enter a street address or keyword"
+msgstr "Sokak adresi veya anahtar kelime girin"
+
+#: includes/header-advanced-search.php:155
+msgid "Addtiional Features"
+msgstr "İlave Özellikler"
+
+#: includes/post-social.php:16 includes/post-social.php:17
+#: includes/post-social.php:18
+msgid "Check out this great article on"
+msgstr "Şu büyük makaleyi inceleyin:"
+
+#: includes/single-listing-attachments.php:16
+#: includes/single-listing-sub-navigation.php:74
+msgid "Attachments"
+msgstr "Eklentiler"
+
+#: includes/single-listing-booking-calendar.php:17
+#: includes/single-listing-home.php:157
+msgid "Book this listing"
+msgstr "Bu listeyi yaptırın"
+
+#: includes/single-listing-contact.php:97 includes/single-listing-home.php:349
+msgid "Request More Information"
+msgstr "Daha Fazla Bilgi Talep Edin"
+
+#: includes/single-listing-contact.php:130 includes/single-listing-home.php:380
+msgid "Co-listing Agent"
+msgstr "Eş Liste Acentesi"
+
+#: includes/single-listing-header.php:35 includes/single-listing-header.php:77
+#: includes/single-listing-home.php:75
+msgid "Co-listing"
+msgstr "Eş listeleme"
+
+#: includes/single-listing-home.php:209 includes/single-listing-yelp.php:25
+msgid "powered by "
+msgstr "Tarafından desteklenmektedir "
+
+#: includes/single-listing-home.php:210 includes/single-listing-yelp.php:26
+msgid "What's Nearby?"
+msgstr "Yakınlarda Neler Var"
+
+#: includes/single-listing-home.php:450
+msgid "Share This Listing"
+msgstr "Bu İlanı Paylaşın"
+
+#: includes/single-listing-map.php:13
+#: includes/single-listing-sub-navigation.php:103
+#: includes/single-listing-sub-navigation.php:132
+msgid "Location"
+msgstr "Konum"
+
+#: includes/single-listing-multi-floorplan.php:21
+msgid "Floor Plans & Pricing"
+msgstr "Kat Planları ve Fiyatlandırma"
+
+#: includes/single-listing-multi-floorplan.php:40
+msgid "Size"
+msgstr "Boyut "
+
+#: includes/single-listing-multi-floorplan.php:46
+msgid "Availability"
+msgstr " Ulaşılabilirlik"
+
+#: includes/single-listing-open-house.php:23
+msgid "Open House"
+msgstr "Açık ev"
+
+#: includes/single-listing-open-house.php:32
+msgid "Time"
+msgstr "Zaman"
+
+#: includes/single-listing-open-house.php:35
+#: includes/single-listing-open-house.php:74
+msgid "RSVP"
+msgstr "Davet Yanıtı"
+
+#: includes/single-listing-rental-info.php:18
+msgid "Rental Information"
+msgstr "Kiralama Bilgisi"
+
+#: includes/single-listing-sub-listings.php:15
+msgid "Other Listings in Community"
+msgstr "Topluluktaki Diğer Listelemeler"
+
+#: includes/single-listing-sub-navigation.php:29
+msgid "Floor Plans"
+msgstr "Kat planları"
+
+#: includes/single-listing-sub-navigation.php:46
+msgid "Rental Info"
+msgstr "Kiralama Bilgisi"
+
+#: includes/single-listing-sub-navigation.php:55
+#: includes/single-listing-sub-navigation.php:131
+msgid "Listing Features"
+msgstr "Liste Özellikleri"
+
+#: includes/single-listing-sub-navigation.php:64
+msgid "Booking"
+msgstr "Rezervasyon "
+
+#: includes/single-listing-sub-navigation.php:85
+#: includes/single-listing-video.php:16
+msgid "Video"
+msgstr "Video"
+
+#: includes/single-listing-sub-navigation.php:95
+msgid "Tour"
+msgstr "Tur"
+
+#: includes/single-listing-sub-navigation.php:110
+msgid "Nearby"
+msgstr "yakında"
+
+#: includes/single-listing-virtual-tour.php:15
+msgid "Virtual Tour"
+msgstr "Sanal Tur"
+
+#: includes/sub-listings.php:115
+#: includes/widgets/ct-widget-agentsotherlistings.php:144
+msgid "Rating"
+msgstr "Toplam Puan "
+
+#: includes/sub-listings.php:133
+#: includes/widgets/ct-widget-agentsotherlistings.php:162
+msgid "Guests"
+msgstr "Misafir"
+
+#: includes/sub-listings.php:148
+#: includes/widgets/ct-widget-agentsotherlistings.php:177
+msgid "Min Stay"
+msgstr "Min Stay"
+
+#: includes/sub-listings.php:189
+#: includes/widgets/ct-widget-agentsotherlistings.php:218
+msgid "Lot Size"
+msgstr "Lot büyüklüğü"
+
+#: layouts/blog-large.php:96
+msgid "Read More"
+msgstr "Daha fazla oku"
+
+#: layouts/grid.php:19 layouts/list.php:16
+msgid "This agent currently has no active listings."
+msgstr "Bu temsilcinin şu anda aktif bir listesi yok."
+
+#: layouts/grid.php:21 layouts/list.php:18
+msgid "This brokerage currently has no active listings."
+msgstr "Bu komisyonun şu anda aktif listeleri yok."
+
+#: layouts/grid.php:23 layouts/list.php:20
+msgid "No properties were found which match your search criteria"
+msgstr "Arama kriterlerinize uyan özellik bulunamadı"
+
+#: admin/ct-social/ct-social.php:28
+msgid "CT Social"
+msgstr "CT Sosyal"
+
+#: admin/ct-social/ct-social.php:130
+#: includes/widgets/ct-widget-agentinfo.php:97
+#: includes/widgets/ct-widget-agentsotherlistings.php:271
+#: includes/widgets/ct-widget-blogauthor.php:60
+#: includes/widgets/ct-widget-brokerinfo.php:78
+#: includes/widgets/ct-widget-contactinfo.php:119
+#: includes/widgets/ct-widget-latestposts.php:70
+#: includes/widgets/ct-widget-listings.php:121
+#: includes/widgets/ct-widget-listingscontact.php:68
+#: includes/widgets/ct-widget-listingssearch.php:286
+#: includes/widgets/ct-widget-search.php:40
+#: includes/widgets/ct-widget-testimonials.php:62
+msgid "Title:"
+msgstr "Başlık:"
+
+#: admin/ct-social/ct-social.php:134
+msgid "Dribbble:"
+msgstr "Dribbble "
+
+#: admin/ct-social/ct-social.php:138
+#: includes/widgets/ct-widget-contactinfo.php:155
+msgid "Email:"
+msgstr "E-posta:"
+
+#: admin/ct-social/ct-social.php:142
+#: includes/widgets/ct-widget-contactinfo.php:159
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: admin/ct-social/ct-social.php:146
+msgid "Flickr:"
+msgstr "Flickr:"
+
+#: admin/ct-social/ct-social.php:150
+msgid "Foursquare:"
+msgstr "Foursquare"
+
+#: admin/ct-social/ct-social.php:154
+msgid "GitHub:"
+msgstr "Github "
+
+#: admin/ct-social/ct-social.php:158
+#: includes/widgets/ct-widget-contactinfo.php:167
+msgid "Google+:"
+msgstr "Google+:"
+
+#: admin/ct-social/ct-social.php:162
+#: includes/widgets/ct-widget-contactinfo.php:179
+msgid "Instagram:"
+msgstr "Instagram"
+
+#: admin/ct-social/ct-social.php:166
+#: includes/widgets/ct-widget-contactinfo.php:171
+msgid "LinkedIn:"
+msgstr "Linkedin:"
+
+#: admin/ct-social/ct-social.php:170
+msgid "Medium:"
+msgstr "Medium"
+
+#: admin/ct-social/ct-social.php:174
+#: includes/widgets/ct-widget-contactinfo.php:175
+msgid "Pinterest:"
+msgstr "Pinterest"
+
+#: admin/ct-social/ct-social.php:178
+msgid "Skype:"
+msgstr "Skype:  "
+
+#: admin/ct-social/ct-social.php:182
+#: includes/widgets/ct-widget-contactinfo.php:163
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: admin/ct-social/ct-social.php:186
+msgid "YouTube:"
+msgstr "Youtube"
+
+#: admin/ct-social/ct-social.php:190
+msgid "Links:"
+msgstr "Bağlantılar"
+
+#: admin/plugins/register.php:64
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+#: admin/plugins/register.php:70
+msgid "Contempo Real Estate Custom Posts"
+msgstr "Contempo Emlak Özel Mesajlar"
+
+#: admin/plugins/register.php:78
+msgid "WP Favorite Posts"
+msgstr "WP Favori Mesajları"
+
+#: admin/plugins/register.php:84
+msgid "Booking Calendar"
+msgstr "Rezervasyon Takvimi"
+
+#: admin/plugins/register.php:90
+msgid "Co-Authors Plus"
+msgstr "Ortak Yazarlar Artı"
+
+#: admin/plugins/register.php:96
+msgid "Comments Ratings"
+msgstr "Yorumlar Rating"
+
+#: admin/plugins/register.php:102
+msgid "Contempo Real Estate 7 Extensions Loader"
+msgstr "Contempo Emlak 7 Uzantıları Yükleyici"
+
+#: admin/plugins/register.php:113
+msgid "Contempo Real Estate 7 Payment Gateways"
+msgstr "Contempo Emlak 7 Ödeme Ağ Geçidi"
+
+#: admin/plugins/register.php:124
+msgid "Contempo Compare Listings"
+msgstr "Contempo Listeleri Karşılaştır"
+
+#: admin/plugins/register.php:135
+msgid "Contempo Child Theme Generator"
+msgstr "Contempo Çocuk Tema Jeneratörü"
+
+#: admin/plugins/register.php:146
+msgid "Slider Revolution"
+msgstr "Sürgü Devrimi"
+
+#: admin/plugins/register.php:157
+msgid "Visual Composer"
+msgstr "Görsel Besteci"
+
+#: admin/plugins/register.php:168
+msgid "Envato Market"
+msgstr "Envato Market"
+
+#: admin/plugins/register.php:179
+msgid "CT Mortgage Calculator"
+msgstr "CT İpotek Hesaplayıcısı"
+
+#: includes/widgets/ct-widget-adspace.php:13
+msgid "CT Adspace Widget"
+msgstr "CT Adspace Widget"
+
+#: includes/widgets/ct-widget-adspace.php:61
+#: includes/widgets/ct-widget-listingssocial.php:49
+msgid "Title (optional):"
+msgstr "Başlık (isteğe bağlı):"
+
+#: includes/widgets/ct-widget-adspace.php:65
+msgid "Ad Code:"
+msgstr "Reklam kodu:"
+
+#: includes/widgets/ct-widget-adspace.php:70
+msgid "Image Url:"
+msgstr "Resim URL'si:"
+
+#: includes/widgets/ct-widget-adspace.php:74
+msgid "Link URL:"
+msgstr "Link URL:"
+
+#: includes/widgets/ct-widget-adspace.php:78
+msgid "Alt text:"
+msgstr "Alt Text:
+"
+
+#: includes/widgets/ct-widget-agentinfo.php:13
+msgid "CT Agent Info"
+msgstr "CT Acente Bilgisi"
+
+#: includes/widgets/ct-widget-agentinfo.php:68
+msgid "Mobile"
+msgstr "Mobil"
+
+#: includes/widgets/ct-widget-agentinfo.php:71
+msgid "Office"
+msgstr "Ofis"
+
+#: includes/widgets/ct-widget-agentinfo.php:74
+msgid "Fax"
+msgstr "Faks"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:13
+msgid "CT Agents Other Listings"
+msgstr "CT Ajanlar Diğer Listesi"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:275
+#: includes/widgets/ct-widget-flickr.php:55
+#: includes/widgets/ct-widget-latestposts.php:74
+#: includes/widgets/ct-widget-listings.php:125
+#: includes/widgets/ct-widget-testimonials.php:66
+msgid "Number:"
+msgstr "Number:"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:283
+#: includes/widgets/ct-widget-listings.php:133
+msgid "Taxonomy:"
+msgstr "Taksonomi"
+
+#: includes/widgets/ct-widget-agentsotherlistings.php:292
+#: includes/widgets/ct-widget-listings.php:142
+msgid "Tag:"
+msgstr "Etiket:"
+
+#: includes/widgets/ct-widget-blogauthor.php:13
+msgid "CT Blog Author Info"
+msgstr "CT Blog Yazar Bilgileri"
+
+#: includes/widgets/ct-widget-blogauthor.php:64
+msgid "Bio:"
+msgstr "Biyografi"
+
+#: includes/widgets/ct-widget-blogauthor.php:68
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr "<a href=\"http://www.gravatar.com/\"> Gravatar </a> E-posta:"
+
+#: includes/widgets/ct-widget-blogauthor.php:72
+msgid "Gravatar Size:"
+msgstr "Gravatar Boyutu:"
+
+#: includes/widgets/ct-widget-blogauthor.php:76
+msgid "Gravatar Alignment:"
+msgstr "Gravatar Hizalama:"
+
+#: includes/widgets/ct-widget-blogauthor.php:78
+msgid "Left"
+msgstr "Sol"
+
+#: includes/widgets/ct-widget-blogauthor.php:79
+msgid "Right"
+msgstr "Sağ"
+
+#: includes/widgets/ct-widget-blogauthor.php:83
+msgid "Read More Text (optional):"
+msgstr "Devamı Metin (isteğe bağlı):"
+
+#: includes/widgets/ct-widget-blogauthor.php:87
+msgid "Read More URL (optional):"
+msgstr "URL'yi oku (isteğe bağlı):"
+
+#: includes/widgets/ct-widget-blogauthor.php:91
+msgid "Visible Pages:"
+msgstr "Görünür Sayfalar:"
+
+#: includes/widgets/ct-widget-blogauthor.php:93
+msgid "All"
+msgstr "Tümü"
+
+#: includes/widgets/ct-widget-blogauthor.php:94
+msgid "Home only"
+msgstr "Yalnızca ev"
+
+#: includes/widgets/ct-widget-blogauthor.php:95
+msgid "Single only"
+msgstr "Sadece tek"
+
+#: includes/widgets/ct-widget-brokerinfo.php:13
+msgid "CT Brokers Info"
+msgstr "CT Brokers Bilgisi"
+
+#: includes/widgets/ct-widget-brokerinfo.php:54
+msgid "Email Office"
+msgstr "E-posta Ofis"
+
+#: includes/widgets/ct-widget-brokerinfo.php:55
+msgid "Visit Brokers Website"
+msgstr "Broker Web sitesini ziyaret edin"
+
+#: includes/widgets/ct-widget-brokerinfo.php:82
+msgid "Logo URL:"
+msgstr "Logo URL'si:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:86
+msgid "Company:"
+msgstr "Şirket:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:90
+msgid "Office Phone:"
+msgstr "Ofis telefonu:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:94
+msgid "Office Email:"
+msgstr "Ofis E-postası:"
+
+#: includes/widgets/ct-widget-brokerinfo.php:98
+msgid "Website:"
+msgstr "İnternet sitesi:"
+
+#: includes/widgets/ct-widget-contactinfo.php:13
+msgid "CT Contact Info"
+msgstr "CT İletişim Bilgileri"
+
+#: includes/widgets/ct-widget-contactinfo.php:112
+msgid "Show Logo:"
+msgstr "Logo Göster:"
+
+#: includes/widgets/ct-widget-contactinfo.php:114
+msgid "Yes"
+msgstr "Evet  "
+
+#: includes/widgets/ct-widget-contactinfo.php:115
+msgid "No"
+msgstr "Hayır"
+
+#: includes/widgets/ct-widget-contactinfo.php:123
+msgid "Blurb:"
+msgstr "Önsöz"
+
+#: includes/widgets/ct-widget-contactinfo.php:127
+msgid "Company Name:"
+msgstr "Şirket adı"
+
+#: includes/widgets/ct-widget-contactinfo.php:131
+msgid "Street Address:"
+msgstr "Açık adres:"
+
+#: includes/widgets/ct-widget-contactinfo.php:135
+msgid "City:"
+msgstr "Şehir:"
+
+#: includes/widgets/ct-widget-contactinfo.php:139
+msgid "State:"
+msgstr "Belirtmek, bildirmek:"
+
+#: includes/widgets/ct-widget-contactinfo.php:143
+msgid "Postal:"
+msgstr "Posta:"
+
+#: includes/widgets/ct-widget-contactinfo.php:147
+msgid "Country:"
+msgstr "Ülke: "
+
+#: includes/widgets/ct-widget-contactinfo.php:151
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: includes/widgets/ct-widget-flickr.php:13
+msgid "CT Flickr"
+msgstr "CT Flickr"
+
+#: includes/widgets/ct-widget-flickr.php:26
+msgid "Photos on flickr"
+msgstr "Flickr'da fotoğraflar"
+
+#: includes/widgets/ct-widget-flickr.php:51
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+
+#: includes/widgets/ct-widget-flickr.php:63
+msgid "Type:"
+msgstr "Tür:"
+
+#: includes/widgets/ct-widget-flickr.php:65
+msgid "User"
+msgstr "Kullanıcı "
+
+#: includes/widgets/ct-widget-flickr.php:66
+msgid "Group"
+msgstr "Grup"
+
+#: includes/widgets/ct-widget-flickr.php:70
+msgid "Sorting:"
+msgstr "Sıralama:"
+
+#: includes/widgets/ct-widget-flickr.php:72
+#: includes/widgets/ct-widget-tabs.php:110
+#: includes/widgets/ct-widget-tabs.php:117
+msgid "Latest"
+msgstr "En yeni"
+
+#: includes/widgets/ct-widget-flickr.php:73
+msgid "Random"
+msgstr "Rastgele"
+
+#: includes/widgets/ct-widget-flickr.php:77
+msgid "Size:"
+msgstr "Boyutu:"
+
+#: includes/widgets/ct-widget-flickr.php:79
+msgid "Square"
+msgstr "Kare "
+
+#: includes/widgets/ct-widget-flickr.php:80
+msgid "Medium"
+msgstr "Medium"
+
+#: includes/widgets/ct-widget-flickr.php:81
+msgid "Thumbnail"
+msgstr "Küçük resim "
+
+#: includes/widgets/ct-widget-latestposts.php:13
+msgid "CT Latest Posts"
+msgstr "CT Son Gönderiler"
+
+#: includes/widgets/ct-widget-listings.php:13
+msgid "CT Listings"
+msgstr "BT Listeleri"
+
+#: includes/widgets/ct-widget-listings.php:146
+msgid "View All Link Text"
+msgstr "Tümünü görüntüle Bağlantı Metni"
+
+#: includes/widgets/ct-widget-listings.php:150
+msgid "View All Link URL"
+msgstr "Tümünü Göster Bağlantı URL"
+
+#: includes/widgets/ct-widget-listingscontact.php:13
+msgid "CT Listing Agent Contact"
+msgstr "CT Listeleme Temsilcisi İletişim"
+
+#: includes/widgets/ct-widget-listingscontact.php:72
+msgid "Subject:"
+msgstr "Konu:"
+
+#: includes/widgets/ct-widget-listingssearch.php:13
+msgid "CT Listings Search"
+msgstr "BT Listeleme Arama"
+
+#: includes/widgets/ct-widget-listingssocial.php:13
+msgid "CT Listings Social"
+msgstr "BT Listeleme Sosyal"
+
+#: includes/widgets/ct-widget-search.php:13
+msgid "CT Search"
+msgstr "CT Arama"
+
+#: includes/widgets/ct-widget-tabs.php:13
+msgid "CT Tabs"
+msgstr "CT Tabs"
+
+#: includes/widgets/ct-widget-tabs.php:103
+msgid "Number of posts:"
+msgstr "Mesaj sayısı:"
+
+#: includes/widgets/ct-widget-tabs.php:108
+msgid "First Visible Tab:"
+msgstr "İlk Görünür Sekme:"
+
+#: includes/widgets/ct-widget-tabs.php:111
+#: includes/widgets/ct-widget-tabs.php:120
+msgid "Comments"
+msgstr "Yorumlar "
+
+#: includes/widgets/ct-widget-tabs.php:112
+#: includes/widgets/ct-widget-tabs.php:123
+msgid "Tags"
+msgstr "Etiketler"
+
+#: includes/widgets/ct-widget-testimonials.php:13
+msgid "CT Testimonials"
+msgstr "CT Görüşleri"
+
+#. Name of the theme
+msgid "WP Pro Real Estate 7"
+msgstr "WP Pro Emlak 7"
+
+#. Description of the theme
+msgid ""
+"A responsive real estate theme, designed by <a href=\"http://www."
+"contempographicdesign.com\">Contempo</a>."
+msgstr "<a href=\"http://www.contempographicdesign.com\"> Contempo </a> tarafından tasarlanan duyarlı bir gayrimenkul teması."
+
+#. URI of the theme
+msgid "http://themeforest.net/user/contempoinc?ref=contempoinc"
+msgstr "http://themeforest.net/user/contempoinc?ref=contempoinc"
+
+#. Author of the theme
+msgid "Chris Robinson"
+msgstr "Chris Robinson"
+
+#. Author URI of the theme
+msgid "http://www.contempographicdesign.com"
+msgstr "http://www.contempographicdesign.com"
+
+#: template-advanced-search.php:67 template-edit-listing.php:496
+#: template-listing-email-alerts.php:91 template-submit-listing.php:336
+#: admin/profile-fields.php:153 includes/advanced-search.php:46
+#: includes/widgets/ct-widget-listingssearch.php:55
+msgid "City"
+msgstr "Şehir"
+
+#: template-advanced-search.php:81 template-edit-listing.php:510
+#: template-listing-email-alerts.php:96 template-submit-listing.php:350
+#: includes/advanced-search.php:64
+#: includes/widgets/ct-widget-listingssearch.php:73
+msgid "State"
+msgstr "Devlet,eyalet"
+
+#: template-advanced-search.php:105 template-edit-listing.php:531
+#: template-listing-email-alerts.php:71 template-submit-listing.php:371
+#: includes/advanced-search.php:109 includes/header-advanced-search.php:128
+#: includes/single-listing-multi-floorplan.php:33
+#: includes/widgets/ct-widget-listingssearch.php:118
+msgid "Beds"
+msgstr "Yataklar"
+
+#: template-advanced-search.php:110 template-edit-listing.php:536
+#: template-listing-email-alerts.php:76 template-submit-listing.php:376
+#: includes/advanced-search.php:118 includes/header-advanced-search.php:137
+#: includes/single-listing-multi-floorplan.php:36 includes/sub-listings.php:95
+#: includes/widgets/ct-widget-agentsotherlistings.php:124
+#: includes/widgets/ct-widget-listingssearch.php:127
+msgid "Baths"
+msgstr "Banyolar"
+
+#: template-advanced-search.php:115 template-edit-listing.php:270
+#: template-listing-email-alerts.php:66 template-submit-listing.php:179
+#: template-view-invoices.php:61 includes/advanced-search.php:127
+#: includes/header-advanced-search.php:146
+#: includes/widgets/ct-widget-listingssearch.php:136
+msgid "Status"
+msgstr "durum"
+
+#: template-advanced-search.php:135 template-advanced-search.php:136
+#: template-listing-email-alerts.php:81 includes/advanced-search.php:164
+#: includes/advanced-search.php:165 includes/header-advanced-search.php:183
+#: includes/header-advanced-search.php:184
+#: includes/widgets/ct-widget-listingssearch.php:173
+#: includes/widgets/ct-widget-listingssearch.php:174
+msgid "Price From"
+msgstr "Dan başlayan fiyatlar"
+
+#: template-advanced-search.php:140 template-advanced-search.php:141
+#: template-listing-email-alerts.php:86 includes/advanced-search.php:173
+#: includes/advanced-search.php:174 includes/header-advanced-search.php:192
+#: includes/header-advanced-search.php:193
+#: includes/widgets/ct-widget-listingssearch.php:182
+#: includes/widgets/ct-widget-listingssearch.php:183
+msgid "Price To"
+msgstr "Fiyat Üzerinde"
+
+#: includes/single-listing-home.php:137
+#: includes/single-listing-rental-info.php:38
+msgid "Prices"
+msgstr "Fiyatlar"
+
+#: includes/sub-listings.php:81
+#: includes/widgets/ct-widget-agentsotherlistings.php:110
+msgid "Bed"
+msgstr "Yatak"
+
